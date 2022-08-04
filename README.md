@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Prajay aka @poseidon-tech
-- 👀 I’m interested in Java(SpringCore,SpringBoot,Junit) , React and Angular
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on any projects that suits my interest and skill
 - 📫 How to reach me Email - prajay090@gmail.com Linkedin - https://www.linkedin.com/in/prajay-yalamanchili/
 
 

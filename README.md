@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajay aka @poseidon-tech
 - 📫 How to reach me Email - prajay090@gmail.com Linkedin - https://www.linkedin.com/in/prajay-yalamanchili/
-
+![go_gator](https://github.com/poseidon-tech/poseidon-tech/assets/71868516/be3db3b4-2acc-45e8-8f45-c290090a25e3)
 
 <!---
 poseidon-tech/poseidon-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
